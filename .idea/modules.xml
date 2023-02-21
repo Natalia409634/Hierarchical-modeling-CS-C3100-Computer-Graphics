@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hierarchical-modeling-CS-C3100-Computer-Graphics.iml" filepath="$PROJECT_DIR$/.idea/Hierarchical-modeling-CS-C3100-Computer-Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment3-dist/.idea/assignment3-dist.iml" filepath="$PROJECT_DIR$/assignment3-dist/.idea/assignment3-dist.iml" />
+    </modules>
+  </component>
+</project>
